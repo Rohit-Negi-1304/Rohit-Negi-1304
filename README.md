@@ -6,9 +6,9 @@
 
 ## 🚀 Professional Summary
 
-Full Stack Software Engineer with **2+ years** of proven expertise in designing and deploying scalable distributed systems. Specialized in Java/Spring Boot microservices, AWS cloud infrastructure, and high-performance data systems. Trusted by Goldman Sachs to architect mission-critical financial workflows and infrastructure. 
+Full Stack Software Engineer with **2+ years** of proven expertise in designing and deploying scalable distributed systems. Specialized in Java/Spring Boot microservices, AWS cloud infrastructure, and high-performance data systems.
 
-**Currently:** Associate Software Development Engineer at **Publicis Sapient** (Goldman Sachs)  
+**Currently:** Associate Software Development Engineer at **Publicis Sapient**  
 **Location:** Gurgaon, India | **Email:** negi9683@gmail.com | **Phone:** +91-7457847798
 
 ---
@@ -16,7 +16,7 @@ Full Stack Software Engineer with **2+ years** of proven expertise in designing 
 ## 🏆 Professional Highlights & Impact
 
 ### Infrastructure & Cloud Excellence
-- 🏗️ **Spearheaded China Region Migration** → Led end-to-end AWS infrastructure deployment for Goldman Sachs at **100% production capacity**. Managed Terraform IAC, AWS connectivity, tooling integrations, and database configurations from ground zero.
+- 🏗️ **Spearheaded China Region Migration** → Led end-to-end AWS infrastructure deployment at **100% production capacity**. Managed Terraform IAC, AWS connectivity, tooling integrations, and database configurations from ground zero.
 - 📊 **DynamoDB Data Retention Optimization** → Architected high-throughput data retention strategy for **130M+ records**, implementing TTL-based garbage collection mechanism reducing storage overhead by **~40%** without impacting production performance.
 - ⚡ **S3 Retrieval Performance Boost** → Engineered AWS S3 optimization resulting in **30% faster** artifact loading and significantly improved system throughput.
 
